@@ -55,7 +55,7 @@ body {
     top: 61%;
 
     width: 20%;
-    height: 7%;
+    height: 10%;
 }
 
 /* 영유아검진 */
@@ -64,7 +64,7 @@ body {
     top: 61%;
 
     width: 20%;
-    height: 7%;
+    height: 10%;
 }
 
 /* 소아과 */
@@ -73,7 +73,7 @@ body {
     top: 61%;
 
     width: 20%;
-    height: 7%;
+    height: 10%;
 }
 
 /* 이비인후과 */
@@ -82,7 +82,7 @@ body {
     top: 61%;
 
     width: 20%;
-    height: 7%;
+    height: 10%;
 }
 
 /* ---------------- */
@@ -92,37 +92,37 @@ body {
 /* 내과 */
 .internal {
     left: 3%;
-    top: 73%;
+    top: 76%;
 
     width: 20%;
-    height: 7%;
+    height: 10%;
 }
 
 /* 산부인과 */
 .women {
     left: 27%;
-    top: 73%;
+    top: 76%;
 
     width: 20%;
-    height: 7%;
+    height: 10%;
 }
 
 /* 정신과 */
 .mental {
     left: 51%;
-    top: 73%;
+    top: 76%;
 
     width: 20%;
-    height: 7%;
+    height: 10%;
 }
 
 /* 피부과 */
 .skin {
     left: 75%;
-    top: 73%;
+    top: 76%;
 
     width: 20%;
-    height: 7%;
+    height: 10%;
 }
 
 /* ---------------- */
@@ -132,17 +132,17 @@ body {
 /* 진료기록 */
 .record {
     left: 3%;
-    top: 85%;
+    top: 89%;
 
     width: 20%;
-    height: 7%;
+    height: 10%;
 }
 
 /* 마이페이지 */
 .mypage {
     left: 27%;
-    top: 85%;
+    top: 89%;
 
     width: 20%;
-    height: 7%;
+    height: 10%;
 }
