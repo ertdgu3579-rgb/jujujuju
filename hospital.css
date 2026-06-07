@@ -49,7 +49,7 @@ body {
 /* 정형외과 */
 .ortho {
     left: 0%;
-    top: 30%;
+    top: 50%;
 
     width: 100%;
     height: 15%;
@@ -58,7 +58,7 @@ body {
 /* 영유아검진 */
 .baby {
     left: 0%;
-    top: 45%;
+    top: 65%;
 
     width: 100%;
     height: 15%;
@@ -67,7 +67,7 @@ body {
 /* 소아과 */
 .child {
     left: 0%;
-    top: 60%;
+    top: 80%;
 
     width: 100%;
     height: 15%;
@@ -76,7 +76,7 @@ body {
 /* 이비인후과 */
 .ent {
     left: 0%;
-    top: 75%;
+    top: 95%;
 
     width: 100%;
     height: 15%;
