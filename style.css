@@ -34,7 +34,7 @@ body {
     display: block;
 }
 
-/* 버튼 */
+/* 공통 버튼 */
 
 .btn {
     position: absolute;
@@ -52,37 +52,37 @@ body {
 /* 정형외과 */
 .ortho {
     left: 3%;
-    top: 44%;
+    top: 41%;
 
     width: 20%;
-    height: 8%;
+    height: 7%;
 }
 
 /* 영유아검진 */
 .baby {
     left: 27%;
-    top: 44%;
+    top: 41%;
 
     width: 20%;
-    height: 8%;
+    height: 7%;
 }
 
 /* 소아과 */
 .child {
     left: 51%;
-    top: 44%;
+    top: 41%;
 
     width: 20%;
-    height: 8%;
+    height: 7%;
 }
 
 /* 이비인후과 */
 .ent {
     left: 75%;
-    top: 44%;
+    top: 41%;
 
     width: 20%;
-    height: 8%;
+    height: 7%;
 }
 
 /* ---------------- */
@@ -92,35 +92,57 @@ body {
 /* 내과 */
 .internal {
     left: 3%;
-    top: 57%;
+    top: 53%;
 
     width: 20%;
-    height: 8%;
+    height: 7%;
 }
 
 /* 산부인과 */
 .women {
     left: 27%;
-    top: 57%;
+    top: 53%;
 
     width: 20%;
-    height: 8%;
+    height: 7%;
 }
 
 /* 정신과 */
 .mental {
     left: 51%;
-    top: 57%;
+    top: 53%;
 
     width: 20%;
-    height: 8%;
+    height: 7%;
 }
 
 /* 피부과 */
 .skin {
     left: 75%;
-    top: 57%;
+    top: 53%;
 
     width: 20%;
-    height: 8%;
+    height: 7%;
+}
+
+/* ---------------- */
+/* 하단 버튼 */
+/* ---------------- */
+
+/* 진료기록 */
+.record {
+    left: 32%;
+    top: 88%;
+
+    width: 16%;
+    height: 7%;
+}
+
+/* 마이페이지 */
+.mypage {
+    left: 67%;
+    top: 88%;
+
+    width: 16%;
+    height: 7%;
 }
