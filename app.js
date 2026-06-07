@@ -4,7 +4,7 @@ buttons.forEach((button) => {
 
     button.addEventListener("click", () => {
 
-        console.log("버튼 클릭!");
+        window.location.href = "hospital.html"; //병원 탐색 페이지로 이동
 
     });
 
