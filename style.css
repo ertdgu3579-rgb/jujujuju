@@ -12,42 +12,47 @@ body {
     overflow-x: hidden;
 }
 
-/* 앱 전체 영역 */
+/* 전체 앱 */
 
 #app {
     position: relative;
 
     width: 100vw;
+    height: 100vh;
+
+    overflow: hidden;
 }
 
 /* 배경 이미지 */
 
 #screen {
-    width: 100vw;
+    width: 100%;
+    height: 100%;
+
+    object-fit: contain;
 
     display: block;
 }
 
-/* 공통 버튼 */
+/* 버튼 */
 
 .btn {
     position: absolute;
 
     background: rgba(255, 0, 0, 0.2);
-
     border: 2px solid red;
 
     cursor: pointer;
 }
 
-/* ---------------------- */
-/* 버튼 위치 */
-/* ---------------------- */
+/* ---------------- */
+/* 첫 줄 */
+/* ---------------- */
 
 /* 정형외과 */
 .ortho {
-    left: 4%;
-    top: 58%;
+    left: 3%;
+    top: 44%;
 
     width: 20%;
     height: 8%;
@@ -55,8 +60,8 @@ body {
 
 /* 영유아검진 */
 .baby {
-    left: 28%;
-    top: 58%;
+    left: 27%;
+    top: 44%;
 
     width: 20%;
     height: 8%;
@@ -64,8 +69,8 @@ body {
 
 /* 소아과 */
 .child {
-    left: 52%;
-    top: 58%;
+    left: 51%;
+    top: 44%;
 
     width: 20%;
     height: 8%;
@@ -73,17 +78,21 @@ body {
 
 /* 이비인후과 */
 .ent {
-    left: 76%;
-    top: 58%;
+    left: 75%;
+    top: 44%;
 
     width: 20%;
     height: 8%;
 }
 
+/* ---------------- */
+/* 둘째 줄 */
+/* ---------------- */
+
 /* 내과 */
 .internal {
-    left: 4%;
-    top: 72%;
+    left: 3%;
+    top: 57%;
 
     width: 20%;
     height: 8%;
@@ -91,8 +100,8 @@ body {
 
 /* 산부인과 */
 .women {
-    left: 28%;
-    top: 72%;
+    left: 27%;
+    top: 57%;
 
     width: 20%;
     height: 8%;
@@ -100,8 +109,8 @@ body {
 
 /* 정신과 */
 .mental {
-    left: 52%;
-    top: 72%;
+    left: 51%;
+    top: 57%;
 
     width: 20%;
     height: 8%;
@@ -109,8 +118,8 @@ body {
 
 /* 피부과 */
 .skin {
-    left: 76%;
-    top: 72%;
+    left: 75%;
+    top: 57%;
 
     width: 20%;
     height: 8%;
