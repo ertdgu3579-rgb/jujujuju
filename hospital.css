@@ -52,32 +52,32 @@ body {
     top: 30%;
 
     width: 100%;
-    height: 20%;
+    height: 15%;
 }
 
 /* 영유아검진 */
 .baby {
     left: 0%;
-    top: 50%;
+    top: 45%;
 
     width: 100%;
-    height: 20%;
+    height: 15%;
 }
 
 /* 소아과 */
 .child {
     left: 0%;
-    top: 70%;
+    top: 60%;
 
     width: 100%;
-    height: 20%;
+    height: 15%;
 }
 
 /* 이비인후과 */
 .ent {
     left: 0%;
-    top: 90%;
+    top: 75%;
 
     width: 100%;
-    height: 20%;
+    height: 15%;
 }
