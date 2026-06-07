@@ -4,8 +4,9 @@ buttons.forEach((button) => {
 
     button.addEventListener("click", () => {
 
-        window.location.href = "hospital.html"; //병원 탐색 페이지로 이동
+        window.location.href = button.dataset.link; //병원 탐색 페이지로 이동
 
     });
 
 });
+
