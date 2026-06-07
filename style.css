@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    background: #dddddd;
+
+    display: flex;
+    justify-content: center;
+}
+
+#app {
+    position: relative;
+
+    width: 430px;
+}
+
+#screen {
+    width: 100%;
+    display: block;
+}
+
+/* 공통 버튼 */
+
+.btn {
+    position: absolute;
+
+    background: rgba(255, 0, 0, 0.25);
+
+    border: 2px solid red;
+
+    cursor: pointer;
+}
+
+/* ---------------- */
+/* 버튼 위치 */
+/* ---------------- */
+
+/* 정형외과 */
+.ortho {
+    left: 20px;
+    top: 610px;
+    width: 90px;
+    height: 120px;
+}
+
+/* 영유아검진 */
+.baby {
+    left: 125px;
+    top: 610px;
+    width: 90px;
+    height: 120px;
+}
+
+/* 소아과 */
+.child {
+    left: 230px;
+    top: 610px;
+    width: 90px;
+    height: 120px;
+}
+
+/* 이비인후과 */
+.ent {
+    left: 335px;
+    top: 610px;
+    width: 90px;
+    height: 120px;
+}
+
+/* 내과 */
+.internal {
+    left: 20px;
+    top: 760px;
+    width: 90px;
+    height: 120px;
+}
+
+/* 산부인과 */
+.women {
+    left: 125px;
+    top: 760px;
+    width: 90px;
+    height: 120px;
+}
+
+/* 정신과 */
+.mental {
+    left: 230px;
+    top: 760px;
+    width: 90px;
+    height: 120px;
+}
+
+/* 피부과 */
+.skin {
+    left: 335px;
+    top: 760px;
+    width: 90px;
+    height: 120px;
+}
